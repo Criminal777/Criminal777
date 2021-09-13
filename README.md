@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Criminal777
 - 👀 I’m interested in ... Pentest Offensive 
-- 🌱 I’m currently learning ... Sec+ Net+ A+ eJPT
+- 🌱 I’m currently learning ... Sec+ Net+ A+ eJPT Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Twitter @crimi777
 
