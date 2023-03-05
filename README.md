@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Criminal777
 - 👀 I’m interested in ... Pentest Offensive 
-- 🌱 I’m currently learning ... Sec+,Net+,CCNA,Python,bash
+- 🌱 I’m currently learning ... OSCP,Linux+,CCNA,Python,bash
 - 💞️ I’m looking to collaborate on Red Team Field...
 - 📫 How to reach me ... Twitter @crimi777
 
